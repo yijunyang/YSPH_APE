@@ -1,3 +1,3 @@
-# YSPH APE PROGRAM 2021 POSTER
+# YSPH APE Program Poster (2021)
 
-![poster](https://raw.githubusercontent.com/yijunyang/YSPH_APE/main/APE%20POSTER_pic.jpg)
+![poster](https://raw.githubusercontent.com/yijunyang/YSPH_APE/main/APE_POSTER.png)
